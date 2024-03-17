@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Mon Feb 12 01:38:07 2024
+# Process ID: 17840
+# Current directory: C:/Mini project Vivado/2016/NMC/NMC.runs/synth_1
+# Command line: vivado.exe -log NMC.vds -mode batch -messageDb vivado.pb -notrace -source NMC.tcl
+# Log file: C:/Mini project Vivado/2016/NMC/NMC.runs/synth_1/NMC.vds
+# Journal file: C:/Mini project Vivado/2016/NMC/NMC.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source NMC.tcl -notrace
