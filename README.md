@@ -1,0 +1,1 @@
+A Near Memory computing Architecture design with a closely integrated RAM and an ALU to perform simple mathematical operations that can be a very useful application to perform MAC operations in Neural networks computations etc.
